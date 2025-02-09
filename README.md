@@ -1,10 +1,10 @@
 <!-- Section: Presentation -->
 <h1 align="center"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGl5Nml6MzRodjU2NmhwaXJ0Ymo2b243endzbGY2cHV1amYwMGQ3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KZ5vbaMeeX67dQn5qU/giphy.gif" width="35"> <b>Hi, I'm Angyee Alexandra </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-👩‍💻 I am a Full Stack programmer passionate about learning new technologies. <br>
-⭐ I focus every day on improving the code to create more scalable and maintainable programs, using object-oriented programming. <br>
-💼 Currently, I'm working on traffic optimization and analysis for the telecommunications area.<br>
-🦈 I love music and animals... Especially sharks!
+- 👩‍💻 I am a Full Stack programmer passionate about learning new technologies. <br>
+- ⭐ I focus every day on improving the code to create more scalable and maintainable programs, using object-oriented programming. <br>
+- 💼 Currently, I'm working on traffic optimization and analysis for the telecommunications area.<br>
+- 🦈 I love music and animals... Especially sharks!
 
 <!-- Section: Github Widgets -->
 <br>
@@ -25,6 +25,3 @@
 <img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 <a href="https://x.com/xanv754" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-<picture> <img align="center" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDN6YTcyYmJsY3pjb24wcXdyNXR6OTRvNzRpd2Fvbmo4czd2eDBiaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IauL6LvGNlT3ffhcqq/giphy.gif" width = 100px></picture>
-<br>
-</div>
